@@ -1,8 +1,14 @@
-# React + Vite
+# ThreeJS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Nesse projeto eu fiz uma introdução a threeJS apenas carregando gltf e alterando alguns parametros apenas para fins de estudo.
 
-Currently, two official plugins are available:
+Para utilizar o projeto é só utilizar 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Instalar as dependências
+`npm install`
+
+### Rodar o projeto
+`npm run dev`
+
+![imagem do site](https://github.com/BiaTrixie/threejs-intro/blob/main/img/site.png)
+
